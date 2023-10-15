@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@700&display=swap');
+
+.first-screen #icon{
+    display: flex;
+    width: 1296px;
+    padding: 40px 0px;
+    justify-content: space-between;
+    align-items: center;
+ }
